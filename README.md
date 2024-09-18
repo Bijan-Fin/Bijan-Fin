@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bijan-Fin
+- 👋 Hi, I’m @Bijan2024
 - 👀 I’m interested in finance, mathematics, and coding.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on quant research questions
